@@ -68,7 +68,7 @@ npm install
 npm start
 ```
 App will run on:
-http://localhost:8080
+ http://localhost:5173/
 ---
 ### Frontend - Modern Version
 ```bash
