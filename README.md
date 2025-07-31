@@ -1,25 +1,42 @@
 # Expense Tracker Web App
-A personal finance tracker web application that helps you manage income, expenses, and
-budgets.
-Includes **two frontend versions**:
-- **frontend_basic** -> Minimal React app with all functionality (built manually)
-- **frontend_modern** -> Modern, stylish version (built with Lovable AI)
-Backend is built with **FastAPI**.
+The Expense Tracker Web App is a personal finance management tool designed to help you
+track, analyze, and optimize your income, expenses, and savings.
+It provides a clear overview of your monthly spending habits, enables you to set budget
+goals, and visually represents your financial data using charts and graphs.
+The application supports both a **basic** and a **modern** frontend design, allowing you
+to choose the look and feel you prefer.
+This project is perfect for individuals looking to improve their budgeting skills,
+manage recurring expenses, and get actionable insights into their financial health.
+It is also a great example of a **full-stack project** that integrates a FastAPI backend
+with a React frontend.
 ---
 ## Features
-- **Add & Remove Entries** -> Track both income and expenses
-- **Income vs Expense View** -> See totals for each month
-- **Budget Categories**:
- - Wants
- - Needs
- - Savings
-- **Automatic Insights**:
- - % of salary spent on Wants, Needs, Savings
- - Total earned and total spent per month
- - Month-to-month spending comparison
-- **Graphs & Charts** -> Visual representation of expenses and income
-- **Monthly Filter** -> Only see data for selected month
-- **Data Verification Prompt** -> End-of-month balance check to catch missing entries
+### 1. Add & Remove Entries
+- Add income or expenses with a simple form.
+- Categorize expenses into **Wants**, **Needs**, or **Savings**.
+- Remove entries anytime to keep your records clean.
+  
+### 2. Income vs Expense Tracking
+- Clearly see how much you have earned and spent for the current month.
+- Easily identify overspending patterns.
+  
+### 3. Budget Categories
+- Create personalized budget categories for better tracking.
+- Group categories into **Wants**, **Needs**, and **Savings** for a high-level overview.
+  
+### 4. Automatic Insights
+- Calculates what percentage of your income goes into Wants, Needs, and Savings.
+- Highlights potential overspending or savings opportunities.
+  
+### 5. Graphs & Charts
+- Interactive pie charts for category breakdowns.
+- Bar charts for monthly income and expense trends.
+- Clear visual representation for easier decision-making.
+  
+### 6. Monthly Filters
+- View transactions for any selected month.
+- Helps in tracking financial progress over time.
+
 ---
 ## Folder Structure
 ```
