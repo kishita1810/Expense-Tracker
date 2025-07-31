@@ -9,7 +9,7 @@ with a React frontend.
 
 ---
 ## 📽 Live Demo
-[![Watch the video]([https://youtu.be/e-qG5c3G7_M])](https://youtu.be/e-qG5c3G7_M)
+[![Watch the video](https://img.youtube.com/vi/e-qG5c3G7_M/0.jpg)](https://youtu.be/e-qG5c3G7_M)
 
 Click the image above to watch a quick demo of the Expense Tracker Web App in action.
 ---
