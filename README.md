@@ -1,4 +1,5 @@
 # Expense Tracker Web App
+
 The Expense Tracker Web App is a personal finance management tool designed to help you
 track, analyze, and optimize your income, expenses, and savings.
 It provides a clear overview of your monthly spending habits, enables you to set budget
@@ -9,6 +10,7 @@ This project is perfect for individuals looking to improve their budgeting skill
 manage recurring expenses, and get actionable insights into their financial health.
 It is also a great example of a **full-stack project** that integrates a FastAPI backend
 with a React frontend.
+
 ---
 ## Features
 ### 1. Add & Remove Entries
